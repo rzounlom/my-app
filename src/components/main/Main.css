@@ -1,0 +1,30 @@
+.main-content {
+  height: 100vh;
+  padding: 40px;
+  text-align: center;
+}
+
+.main-content h2 {
+  margin-top: 30px;
+  color: white;
+}
+
+#about {
+  background-color: blue;
+}
+
+#services {
+  background-color: pink;
+}
+
+#portfolio {
+  background-color: red;
+}
+
+#services {
+  background-color: orange;
+}
+
+#contact {
+  background-color: teal;
+}
