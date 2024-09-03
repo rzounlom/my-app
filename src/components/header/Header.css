@@ -1,0 +1,26 @@
+/* Landing Page styles */
+.landing {
+  height: 80vh;
+  background-image: url("https://media.istockphoto.com/id/1482915045/photo/multiracial-team-of-engineers-or-architects-having-a-meeting-in-an-office.jpg?s=2048x2048&w=is&k=20&c=3QtaOxMSVpDPWudjzt5OBZKqgkEjnB7lv5qgkxRYAOc=");
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing h1,
+.landing p {
+  text-shadow: darkgray 1px 0 10px;
+}
+.landing h1 {
+  font-size: 4rem;
+}
+
+.landing p {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
